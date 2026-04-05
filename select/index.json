@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "If I Ever",
+  "base_artist": "Conor Maynard",
+  "createdAt": "2026-04-05T00:30:06.692403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Ever Saw Heaven",
+      "artist": "Roan Ash",
+      "has_synced": true,
+      "path": "select/01_If_I_Ever_Saw_Heaven_Roan_Ash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Ever Feel Better",
+      "artist": "Phønix",
+      "has_synced": true,
+      "path": "select/02_If_I_Ever_Feel_Better_Phønix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Ever Thought You'd Be Lonely",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/03_If_I_Ever_Thought_You'd_Be_Lonely_ABC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Ever Feel Better (a cappella)",
+      "artist": "Phoenix",
+      "has_synced": false,
+      "path": "select/04_If_I_Ever_Feel_Better_(a_cappella)_Phoenix.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Ever Recover",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/05_If_I_Ever_Recover_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Ever Recover",
+      "artist": "Basement Jaxx vs. Metropole Orkest",
+      "has_synced": false,
+      "path": "select/06_If_I_Ever_Recover_Basement_Jaxx_vs._Metropole_Orkest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Ever (Extended Remix)",
+      "artist": "Red Flag",
+      "has_synced": false,
+      "path": "select/07_If_I_Ever_(Extended_Remix)_Red_Flag.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Ever (Extended Remix Edit)",
+      "artist": "Red Flag",
+      "has_synced": false,
+      "path": "select/08_If_I_Ever_(Extended_Remix_Edit)_Red_Flag.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Ever",
+      "artist": "Red Flag",
+      "has_synced": false,
+      "path": "select/09_If_I_Ever_Red_Flag.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Ever Saw A Good Thing",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/10_If_I_Ever_Saw_A_Good_Thing_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I Ever Die",
+      "artist": "Candlemass",
+      "has_synced": true,
+      "path": "select/11_If_I_Ever_Die_Candlemass.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Ever Feel Better",
+      "artist": "Phoenix",
+      "has_synced": true,
+      "path": "select/12_If_I_Ever_Feel_Better_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Ever Feel Better (Buffalo Bunch Edit Version)",
+      "artist": "Phoenix",
+      "has_synced": false,
+      "path": "select/13_If_I_Ever_Feel_Better_(Buffalo_Bunch_Edit_Version)_Phoenix.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Ever Lose My Faith In You",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/14_If_I_Ever_Lose_My_Faith_In_You_Sting.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Hold Your Breath (If I Ever Pay You Back)",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/15_Don't_Hold_Your_Breath_(If_I_Ever_Pay_You_Back)_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Ever",
+      "artist": "Tanita Tikaram",
+      "has_synced": true,
+      "path": "select/16_If_I_Ever_Tanita_Tikaram.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If I Ever",
+      "artist": "Tanita Tikaram",
+      "has_synced": true,
+      "path": "select/17_If_I_Ever_Tanita_Tikaram.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If I Ever",
+      "artist": "Conor Maynard",
+      "has_synced": false,
+      "path": "select/pl_01_If_I_Ever_Conor_Maynard.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "If I Ever",
+      "artist": "Conor Maynard",
+      "has_synced": false,
+      "path": "select/localdb_01_If_I_Ever_Conor_Maynard.txt",
+      "repo_name": "t-hshoRTEzU"
+    }
+  ]
+}
