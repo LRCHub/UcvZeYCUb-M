@@ -1,0 +1,94 @@
+# Conor Maynard – If I Ever
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+If you ever change your mind
+And wish you never left me here
+all alone
+I'm sorry it's too late to try
+You should delete my number
+out of your phone
+I'm still broken hearted
+And I won't forget
+When I've barely covered
+The scars that you left
+Yeah it nearly killed me
+Go ask all my friends
+I'm just being honest honest, oh
+So if I ever call you
+when I'm drunk
+Promise you won't pick up
+'Cause I don't wanna do this
+again
+And if I'm ever singing
+where youare
+I pray you won't show up
+'Cause I can't bare to see you
+again
+Yeah if I ever
+(If I ever, if, if I ever)
+Yeah if I ever
+(If I ever, if, if I ever)
+Oh no
+I know I never said goodbye
+But then again
+I didn't want you to go
+I drive past where
+we first kissed all the time
+And now I never look that side
+of the road
+I'm still broken hearted
+And I won't forget
+When I've barely covered
+The scars that you left
+Yeah it nearly killed me
+Go ask all my friends
+I'm just being honest honest, oh
+So if I ever call you
+when I'm drunk
+Promise you won't pick up
+'Cause I don't wanna do this
+again
+And if I'm ever singing
+where youare
+I pray you won't show up
+'Cause I can't bare to see you
+again
+Yeah if I ever
+(If I ever, if, if I ever)
+Yeah if I ever
+(If I ever, if, if I ever)
+Oh no, oh ifI ever
+(If I ever, if, if I ever)
+Oh yeah
+(If I ever, if, if I ever)
+Won't let you break my heart
+again
+And I could never be your friend
+You burnt the bridge
+the day youleft
+You left, oh
+So if I ever call you
+when I'm drunk
+Promise you won't pick up
+'Cause I don't wanna do this
+again
+And if I'm ever singing
+where youare
+I pray you won't show up
+'Cause I can't bare to see you
+again
+Yeah if I ever
+Oh yeah, oh yeah
+(If I ever, if, if Iever)
+Oh if I ever
+(If I ever, if, if I ever)
+Oh why did you do this
+to me baby?
+(If I ever, if, if I ever)
+Why did you leave?
+Oh why did you leave?
+(If I ever, if, if I ever)
+Oh woah
+```
